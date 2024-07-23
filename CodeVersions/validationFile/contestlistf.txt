@@ -1,0 +1,90 @@
+
+id: 1681
+name: Educational Codeforces Round 129 (Rated for Div. 2)
+type: ICPC
+phase: BEFORE
+frozen: False
+durationSeconds: 7200
+startTimeSeconds: 1653316500
+relativeTimeSeconds: -960398
+
+id: 1682
+name: Codeforces Round #792 (Div. 2)
+type: CF
+phase: BEFORE
+frozen: False
+durationSeconds: 7200
+startTimeSeconds: 1653230100
+relativeTimeSeconds: -873998
+
+id: 1679
+name: Codeforces Round #791 (Div. 2)
+type: CF
+phase: BEFORE
+frozen: False
+durationSeconds: 7200
+startTimeSeconds: 1652520900
+relativeTimeSeconds: -164798
+
+id: 1680
+name: Educational Codeforces Round 128 (Rated for Div. 2)
+type: ICPC
+phase: BEFORE
+frozen: False
+durationSeconds: 7200
+startTimeSeconds: 1652452500
+relativeTimeSeconds: -96398
+
+id: 1676
+name: Codeforces Round #790 (Div. 4)
+type: ICPC
+phase: FINISHED
+frozen: False
+durationSeconds: 7200
+startTimeSeconds: 1652193900
+relativeTimeSeconds: 162202
+
+id: 1677
+name: Codeforces Round #789 (Div. 1)
+type: CF
+phase: FINISHED
+frozen: False
+durationSeconds: 7200
+startTimeSeconds: 1652020500
+relativeTimeSeconds: 335602
+
+id: 1678
+name: Codeforces Round #789 (Div. 2)
+type: CF
+phase: FINISHED
+frozen: False
+durationSeconds: 7200
+startTimeSeconds: 1652020500
+relativeTimeSeconds: 335602
+
+id: 1670
+name: Codeforces Round #788 (Div. 2)
+type: CF
+phase: FINISHED
+frozen: False
+durationSeconds: 7200
+startTimeSeconds: 1651847700
+relativeTimeSeconds: 508402
+
+id: 1675
+name: Codeforces Round #787 (Div. 3)
+type: ICPC
+phase: FINISHED
+frozen: False
+durationSeconds: 8100
+startTimeSeconds: 1651761300
+relativeTimeSeconds: 594802
+
+id: 1674
+name: Codeforces Round #786 (Div. 3)
+type: ICPC
+phase: FINISHED
+frozen: False
+durationSeconds: 7200
+startTimeSeconds: 1651502100
+relativeTimeSeconds: 854002

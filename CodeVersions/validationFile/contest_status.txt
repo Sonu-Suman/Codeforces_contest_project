@@ -1,0 +1,390 @@
+
+id: 156583947
+contestId: 1674
+creationTimeSeconds: 1652166904
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'A', 'name': 'Number Transformation', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['constructive algorithms', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'Shreyathakral24'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++17 (64)
+verdict: TESTING
+testset: TESTS
+passedTestCount: 0
+timeConsumedMillis: 0
+memoryConsumedBytes: 0
+
+id: 156583917
+contestId: 1674
+creationTimeSeconds: 1652166871
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'C', 'name': 'Infinite Replacement', 'type': 'PROGRAMMING', 'rating': 1000, 'tags': ['combinatorics', 'implementation', 'strings']}
+author: {'contestId': 1674, 'members': [{'handle': 'garg_lucifer'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: Java 11
+verdict: WRONG_ANSWER
+testset: TESTS
+passedTestCount: 1
+timeConsumedMillis: 186
+memoryConsumedBytes: 0
+
+id: 156583845
+contestId: 1674
+creationTimeSeconds: 1652166804
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'B', 'name': 'Dictionary', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['combinatorics', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'applepai'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C11
+verdict: COMPILATION_ERROR
+testset: TESTS
+passedTestCount: 0
+timeConsumedMillis: 0
+memoryConsumedBytes: 0
+
+id: 156583796
+contestId: 1674
+creationTimeSeconds: 1652166755
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'C', 'name': 'Infinite Replacement', 'type': 'PROGRAMMING', 'rating': 1000, 'tags': ['combinatorics', 'implementation', 'strings']}
+author: {'contestId': 1674, 'members': [{'handle': 'abdelrahman1810'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++14
+verdict: WRONG_ANSWER
+testset: TESTS
+passedTestCount: 1
+timeConsumedMillis: 62
+memoryConsumedBytes: 0
+
+id: 156583701
+contestId: 1674
+creationTimeSeconds: 1652166647
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'A', 'name': 'Number Transformation', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['constructive algorithms', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'Return_loser'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++17
+verdict: OK
+testset: TESTS
+passedTestCount: 17
+timeConsumedMillis: 62
+memoryConsumedBytes: 0
+
+id: 156583493
+contestId: 1674
+creationTimeSeconds: 1652166447
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'C', 'name': 'Infinite Replacement', 'type': 'PROGRAMMING', 'rating': 1000, 'tags': ['combinatorics', 'implementation', 'strings']}
+author: {'contestId': 1674, 'members': [{'handle': 'abdelrahman1810'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++14
+verdict: WRONG_ANSWER
+testset: TESTS
+passedTestCount: 1
+timeConsumedMillis: 62
+memoryConsumedBytes: 0
+
+id: 156583442
+contestId: 1674
+creationTimeSeconds: 1652166402
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'A', 'name': 'Number Transformation', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['constructive algorithms', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'Tonmoy_Roy'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++17
+verdict: OK
+testset: TESTS
+passedTestCount: 17
+timeConsumedMillis: 46
+memoryConsumedBytes: 0
+
+id: 156583387
+contestId: 1674
+creationTimeSeconds: 1652166347
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'D', 'name': 'A-B-C Sort', 'type': 'PROGRAMMING', 'rating': 1200, 'tags': ['constructive algorithms', 'implementation', 'sortings']}
+author: {'contestId': 1674, 'members': [{'handle': 'Dreammoonlove'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++20 (64)
+verdict: WRONG_ANSWER
+testset: TESTS
+passedTestCount: 1
+timeConsumedMillis: 15
+memoryConsumedBytes: 819200
+
+id: 156583377
+contestId: 1674
+creationTimeSeconds: 1652166341
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'D', 'name': 'A-B-C Sort', 'type': 'PROGRAMMING', 'rating': 1200, 'tags': ['constructive algorithms', 'implementation', 'sortings']}
+author: {'contestId': 1674, 'members': [{'handle': 'dhananjay_777'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++17
+verdict: WRONG_ANSWER
+testset: TESTS
+passedTestCount: 1
+timeConsumedMillis: 15
+memoryConsumedBytes: 0
+
+id: 156583320
+contestId: 1674
+creationTimeSeconds: 1652166286
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'A', 'name': 'Number Transformation', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['constructive algorithms', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'rohbiv'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++14
+verdict: OK
+testset: TESTS
+passedTestCount: 17
+timeConsumedMillis: 46
+memoryConsumedBytes: 0
+
+id: 156583293
+contestId: 1674
+creationTimeSeconds: 1652166253
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'A', 'name': 'Number Transformation', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['constructive algorithms', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'tuin1803'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++20 (64)
+verdict: OK
+testset: TESTS
+passedTestCount: 17
+timeConsumedMillis: 62
+memoryConsumedBytes: 0
+
+id: 156583202
+contestId: 1674
+creationTimeSeconds: 1652166174
+relativeTimeSeconds: 4074
+problem: {'contestId': 1674, 'index': 'F', 'name': 'Desktop Rearrangement', 'type': 'PROGRAMMING', 'rating': 1800, 'tags': ['data structures', 'greedy', 'implementation']}
+author: {'contestId': 1674, 'members': [{'handle': 's_prateek26'}], 'participantType': 'VIRTUAL', 'ghost': False, 'startTimeSeconds': 1652162100}
+programmingLanguage: PyPy 3-64
+verdict: OK
+testset: TESTS
+passedTestCount: 45
+timeConsumedMillis: 405
+memoryConsumedBytes: 39526400
+
+id: 156583200
+contestId: 1674
+creationTimeSeconds: 1652166172
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'A', 'name': 'Number Transformation', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['constructive algorithms', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'rohbiv'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++14
+verdict: WRONG_ANSWER
+testset: TESTS
+passedTestCount: 1
+timeConsumedMillis: 31
+memoryConsumedBytes: 0
+
+id: 156583143
+contestId: 1674
+creationTimeSeconds: 1652166122
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'D', 'name': 'A-B-C Sort', 'type': 'PROGRAMMING', 'rating': 1200, 'tags': ['constructive algorithms', 'implementation', 'sortings']}
+author: {'contestId': 1674, 'members': [{'handle': 'vjudge3'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++14
+verdict: OK
+testset: TESTS
+passedTestCount: 8
+timeConsumedMillis: 78
+memoryConsumedBytes: 1638400
+
+id: 156583123
+contestId: 1674
+creationTimeSeconds: 1652166112
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'B', 'name': 'Dictionary', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['combinatorics', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'rameshguptha1'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: PyPy 3-64
+verdict: OK
+testset: TESTS
+passedTestCount: 2
+timeConsumedMillis: 62
+memoryConsumedBytes: 3174400
+
+id: 156583081
+contestId: 1674
+creationTimeSeconds: 1652166088
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'D', 'name': 'A-B-C Sort', 'type': 'PROGRAMMING', 'rating': 1200, 'tags': ['constructive algorithms', 'implementation', 'sortings']}
+author: {'contestId': 1674, 'members': [{'handle': 'kaps_61929'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++17
+verdict: OK
+testset: TESTS
+passedTestCount: 8
+timeConsumedMillis: 78
+memoryConsumedBytes: 2457600
+
+id: 156582929
+contestId: 1674
+creationTimeSeconds: 1652165940
+relativeTimeSeconds: 2940
+problem: {'contestId': 1674, 'index': 'D', 'name': 'A-B-C Sort', 'type': 'PROGRAMMING', 'rating': 1200, 'tags': ['constructive algorithms', 'implementation', 'sortings']}
+author: {'contestId': 1674, 'members': [{'handle': 'Tiwari_ji_2024'}], 'participantType': 'VIRTUAL', 'ghost': False, 'startTimeSeconds': 1652163000}
+programmingLanguage: GNU C++20 (64)
+verdict: OK
+testset: TESTS
+passedTestCount: 8
+timeConsumedMillis: 31
+memoryConsumedBytes: 5734400
+
+id: 156582801
+contestId: 1674
+creationTimeSeconds: 1652165822
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'B', 'name': 'Dictionary', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['combinatorics', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'nuhu_ius'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++17
+verdict: OK
+testset: TESTS
+passedTestCount: 2
+timeConsumedMillis: 15
+memoryConsumedBytes: 0
+
+id: 156582649
+contestId: 1674
+creationTimeSeconds: 1652165671
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'D', 'name': 'A-B-C Sort', 'type': 'PROGRAMMING', 'rating': 1200, 'tags': ['constructive algorithms', 'implementation', 'sortings']}
+author: {'contestId': 1674, 'members': [{'handle': 'ketangautam952'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++20 (64)
+verdict: OK
+testset: TESTS
+passedTestCount: 8
+timeConsumedMillis: 31
+memoryConsumedBytes: 1638400
+
+id: 156582630
+contestId: 1674
+creationTimeSeconds: 1652165650
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'D', 'name': 'A-B-C Sort', 'type': 'PROGRAMMING', 'rating': 1200, 'tags': ['constructive algorithms', 'implementation', 'sortings']}
+author: {'contestId': 1674, 'members': [{'handle': 'yashg116'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++17
+verdict: OK
+testset: TESTS
+passedTestCount: 8
+timeConsumedMillis: 77
+memoryConsumedBytes: 819200
+
+id: 156582531
+contestId: 1674
+creationTimeSeconds: 1652165551
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'C', 'name': 'Infinite Replacement', 'type': 'PROGRAMMING', 'rating': 1000, 'tags': ['combinatorics', 'implementation', 'strings']}
+author: {'contestId': 1674, 'members': [{'handle': 'stvake'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++20 (64)
+verdict: OK
+testset: TESTS
+passedTestCount: 8
+timeConsumedMillis: 124
+memoryConsumedBytes: 0
+
+id: 156582434
+contestId: 1674
+creationTimeSeconds: 1652165449
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'A', 'name': 'Number Transformation', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['constructive algorithms', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'tuin1803'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++20 (64)
+verdict: WRONG_ANSWER
+testset: TESTS
+passedTestCount: 1
+timeConsumedMillis: 46
+memoryConsumedBytes: 0
+
+id: 156582404
+contestId: 1674
+creationTimeSeconds: 1652165424
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'B', 'name': 'Dictionary', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['combinatorics', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'Sneha0706'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++17
+verdict: OK
+testset: TESTS
+passedTestCount: 2
+timeConsumedMillis: 15
+memoryConsumedBytes: 0
+
+id: 156582390
+contestId: 1674
+creationTimeSeconds: 1652165414
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'B', 'name': 'Dictionary', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['combinatorics', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'Shahbaz_Mehmood'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: PyPy 3
+verdict: OK
+testset: TESTS
+passedTestCount: 2
+timeConsumedMillis: 77
+memoryConsumedBytes: 2150400
+
+id: 156582389
+contestId: 1674
+creationTimeSeconds: 1652165413
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'D', 'name': 'A-B-C Sort', 'type': 'PROGRAMMING', 'rating': 1200, 'tags': ['constructive algorithms', 'implementation', 'sortings']}
+author: {'contestId': 1674, 'members': [{'handle': 'ketangautam952'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++20 (64)
+verdict: WRONG_ANSWER
+testset: TESTS
+passedTestCount: 1
+timeConsumedMillis: 15
+memoryConsumedBytes: 102400
+
+id: 156582364
+contestId: 1674
+creationTimeSeconds: 1652165386
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'A', 'name': 'Number Transformation', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['constructive algorithms', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'tuin1803'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++20 (64)
+verdict: WRONG_ANSWER
+testset: TESTS
+passedTestCount: 0
+timeConsumedMillis: 0
+memoryConsumedBytes: 0
+
+id: 156582286
+contestId: 1674
+creationTimeSeconds: 1652165326
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'D', 'name': 'A-B-C Sort', 'type': 'PROGRAMMING', 'rating': 1200, 'tags': ['constructive algorithms', 'implementation', 'sortings']}
+author: {'contestId': 1674, 'members': [{'handle': 'ketangautam952'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++20 (64)
+verdict: WRONG_ANSWER
+testset: TESTS
+passedTestCount: 1
+timeConsumedMillis: 15
+memoryConsumedBytes: 102400
+
+id: 156582275
+contestId: 1674
+creationTimeSeconds: 1652165315
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'C', 'name': 'Infinite Replacement', 'type': 'PROGRAMMING', 'rating': 1000, 'tags': ['combinatorics', 'implementation', 'strings']}
+author: {'contestId': 1674, 'members': [{'handle': 'stvake'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++20 (64)
+verdict: WRONG_ANSWER
+testset: TESTS
+passedTestCount: 1
+timeConsumedMillis: 46
+memoryConsumedBytes: 0
+
+id: 156582255
+contestId: 1674
+creationTimeSeconds: 1652165288
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'B', 'name': 'Dictionary', 'type': 'PROGRAMMING', 'rating': 800, 'tags': ['combinatorics', 'math']}
+author: {'contestId': 1674, 'members': [{'handle': 'Sneha0706'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: GNU C++17
+verdict: OK
+testset: TESTS
+passedTestCount: 2
+timeConsumedMillis: 15
+memoryConsumedBytes: 0
+
+id: 156582207
+contestId: 1674
+creationTimeSeconds: 1652165240
+relativeTimeSeconds: 2147483647
+problem: {'contestId': 1674, 'index': 'D', 'name': 'A-B-C Sort', 'type': 'PROGRAMMING', 'rating': 1200, 'tags': ['constructive algorithms', 'implementation', 'sortings']}
+author: {'contestId': 1674, 'members': [{'handle': 'sheknows'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1651502100}
+programmingLanguage: Python 3
+verdict: OK
+testset: TESTS
+passedTestCount: 8
+timeConsumedMillis: 280
+memoryConsumedBytes: 14643200

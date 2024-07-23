@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+Lib
+Lib/
+Scripts/
+images/
+pyenv.cfg
+Secerets.py
+pyvenv.cfg
+permission.txt
+__pycache__

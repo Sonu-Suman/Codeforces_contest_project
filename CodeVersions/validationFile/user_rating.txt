@@ -1,0 +1,16 @@
+
+contestId: 1674
+contestName: Codeforces Round #786 (Div. 3)
+handle: Bharat_Chandravanshi
+rank: 9727
+ratingUpdateTimeSeconds: 1651509300
+oldRating: 0
+newRating: 388
+
+contestId: 1675
+contestName: Codeforces Round #787 (Div. 3)
+handle: Bharat_Chandravanshi
+rank: 12345
+ratingUpdateTimeSeconds: 1651769400
+oldRating: 388
+newRating: 618
